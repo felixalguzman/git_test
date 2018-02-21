@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is 7CDA-E269
+
+ Directory of C:\Users\felix\Documents\Odin\Git
+
+02/21/2018  12:15 AM    <DIR>          .
+02/21/2018  12:15 AM    <DIR>          ..
+02/21/2018  12:15 AM                 0 hello_world.txt
+02/21/2018  12:13 AM               350 README.md
+               2 File(s)            350 bytes
+               2 Dir(s)  269,034,819,584 bytes free
